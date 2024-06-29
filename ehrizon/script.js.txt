@@ -1,0 +1,7 @@
+// script.js
+
+// Function to add product to cart
+function addToCart(productName, price) {
+    // Here you can implement the logic to add the product to the cart
+    alert(productName + " added to cart! Price: $" + price.toFixed(2));
+}
